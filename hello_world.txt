@@ -2,3 +2,4 @@ Hi World! This is my fresh start in programming.
 I'm very happy and hope to be able to build awesome new things.
 
 I did what was in the "Bonus: Changing the Git Commit Message Editor".
+It worked out!
